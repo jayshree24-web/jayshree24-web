@@ -18,41 +18,6 @@
 <br>
 <br> 
 
-## Things I am passionate about <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">.
-
-- IOT :robot:
-- iOS Development 🍎
-- Linux :computer:
-- Open source :octocat:
-- Raspberry Pi 🖥️
-- Crypto Mining ⛏
-- Machine learning 🦾
-
-<!--
-## Connnect with me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-<a href="https://twitter.com/Aayushkumarjsr">
-<img align="left" alt="Aayush's Twitter" width="22px" src="https://th.bing.com/th/id/R.9a3a06f78cc0a8d79fce59e2de6da146?rik=nLAu3Z%2f0QUb%2fVw&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fiynque%2fios7-style%2f1024%2fTwitter-icon.png&ehk=eD3Hc5yQAyP3AKPJoYHB8yeWKwKdaVAswR5kxmodex4%3d&risl=&pid=ImgRaw&r=0" />
-</a>
-<a href="linkedin.com/in/aayush-kumar-20">
-  <img align="left" alt="Aayush's Linkdein" width="22px" src="https://th.bing.com/th/id/R.a330e248626552a23af35e5c46526234?rik=DZhkgnpER0YViQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG8.png&ehk=4bFzIDABrAypqOis7809R99fdbUW93GC4XfvnNxZfdA%3d&risl=&pid=ImgRaw&r=0" />
-</a>
-<a href="https://github.com/aayushkumar20">
-  <img align="left" alt="Aayush's Github" width="22px" src="https://th.bing.com/th/id/OIP.PA0na-U5pFux0q11P4Z2rAHaHa?pid=ImgDet&rs=1" />
-</a>
-<a href="https://t.me/@Asphalt_a">
-  <img align="left" alt="Aayush's Telegram" width="22px" src="https://th.bing.com/th/id/OIP.wFWRVqVsMXhnyoYtiKmdZwHaHa?pid=ImgDet&rs=1" />
-</a>
-<a href="https://www.instagram.com/a.k_soonawalla/?r=nametag">
-  <img align="left" alt="Aayush's Instagram" width="22px" src="https://th.bing.com/th/id/R.03f40b67b63d9c1c1a5a792109bbc699?rik=GbXemMJT0MR0zw&riu=http%3a%2f%2fdbdmedia.co.uk%2fperch%2fresources%2finsta-transparent-logo.png&ehk=IgOWdaM%2fubF4QwM2WNq7zh97LJMVFQ9SD1A4Jv3HI9Y%3d&risl=&pid=ImgRaw&r=0" />
-</a>
-<br>
-
-
-😉 From [Aayush Kumar](https://github.com/aayushkumar20)
-
--->
-<br>
 
 ## Languages and tools (Expand to View)
 
@@ -72,10 +37,6 @@
   <a href="https://www.java.com/en/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java%20-%2300599C.svg?logo=Java&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://swift.org/" target="_blank">
-     <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%232370ED.svg?logo=Swift&logoColor=white">
-   </a>
   &emsp;
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -130,8 +91,6 @@
 <details>
   <summary><b>Graphics designing.</b></summary>
   &emsp;
-  <a href="https://www.blender.org/"><img alt="Blender" src="https://download.blender.org/branding/blender_logo_socket.png" height="30px"></a>
-  &emsp;
   <a href="https://www.canva.com/"><img alt="Canva" src="https://img.shields.io/badge/Canva-%23327FC7.svg?style=flat&logo=canva&logoColor=white"></a>
   &emsp;
 
@@ -170,8 +129,6 @@
   &emsp;
   <a href="https://ubuntu.org"><img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"></a>
   &emsp;
-  <a href="https://www.apple.com/in/macos/monterey/"><img alt="MacOS" src="https://img.shields.io/badge/MacOS-E95420?style=for-the-badge&logo=apple&logoColor=black"></a>
-  &emsp;
   </details>
 
 <!--
@@ -201,13 +158,13 @@
 <table width="100%"> 
   <tr>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=aayushkumar20&show_icons=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api?username=jayshree24-web&show_icons=true&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aayushkumar20&layout=compact&langs_count=8&theme=algolia">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayshree24-web&layout=compact&langs_count=8&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushkumar20&amp;langs_count=8&amp;theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayshree24-web&amp;langs_count=8&amp;theme=algolia">
     </td>
   </tr>
 </table>
@@ -218,11 +175,11 @@
 
 class CSE_Student:
     def __init__(self):
-        self.name       = "Aayush Kumar"
+        self.name       = "Jayshree Karmakar"
         self.role       = "Student"
-        self.contact    = "aayushkumarjsr16@protonmail.com"
-        self.work       = "I'm a Student, Web Developer, iOS Developer and Cyber Security enthusiast!!"
-        self.learning   = "iOS Development"
+        self.contact    = "jayshreek315@gmail.com"
+        self.work       = "I'm a Student, Web developer,Android Developer and Cyber Security enthusiast!!"
+        self.learning   = "Android development"
         
     
     def getLocation():
@@ -230,38 +187,27 @@ class CSE_Student:
 
 me = Engineering Student 😅
 ```
-<!-- Jamshedpur() -->
 <!--<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aayushkumar20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jayshree24-web)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushkumar20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayshree24-web)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushkumar20&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayshree24-web&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aayushkumar20)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jayshree24-web)  
 
-![GitHub metrics](https://metrics.lecoq.io/aayushkumar20)  
+![GitHub metrics](https://metrics.lecoq.io/jayshree24-web)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aayushkumar20)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jayshree24-web)  
 -->
 
 
-[![Graph](https://activity-graph.herokuapp.com/graph?username=aayushkumar20&theme=react-dark)](https://github.com/aayushkumar20/github-readme-activity-graph)
+[![Graph](https://activity-graph.herokuapp.com/graph?username=jayshree24-web&theme=react-dark)](https://github.com/jayshree24-web/github-readme-activity-graph)
 
 
 
 ## Connnect with me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<p align="center">
-  <a href="http://aayushkumar20.github.io/"><img src="https://cdn-icons-png.flaticon.com/512/2644/2644478.png" height="31px"/></a>
-        <a href="mailto:aayushkumarjsr16@protonmail.com"><img src="https://maxcdn.icons8.com/Share/icon/nolan/User_Interface/email1600.png" alt="Gmail" height="32px"/></a>
-        <a href="https://github.com/aayushkumar20"><img src="https://img.icons8.com/nolan/452/github.png" alt="GitHub" height="32px"/></a>
-        <a href="https://twitter.com/Aayushkumarjsr"><img src="https://consideringapple.com/wp-content/uploads/2021/12/twitter-App-Icon-ios-14-widgets.png" alt="Twitter" height="32px"/></a>
-        <a href="https://www.hackerearth.com/@aayushkumarjsr1"><img src="https://maxcdn.icons8.com/Share/icon/nolan/Programming/source_code1600.png" alt="HackerEarth" height="32px"/></a>
-  <!--<a href="https://instagram.com/pra3ith"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>-->
-
-
-</p>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
@@ -273,5 +219,5 @@ me = Engineering Student 😅
 <!--![](https://th.bing.com/th/id/R.8c089d8bc5c454ed37d8193397159f76?rik=Du9yMSlAmXKatQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fblack-and-white-city-png-city-png-picture-4963.png&ehk=P%2fZz6HKxn5eT3nj3YEqQ8TsdQZhiGlMrsYJdFRBSktY%3d&risl=&pid=ImgRaw&r=0)-->
 
 <!--![](https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg)-->
-![](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
+![](https://th.bing.com/th/id/R.532a7d3b3df6d9d6cc2c56e46471dcea?rik=qq8O%2btB31vijxA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2%2fTravel-PNG-Image.png&ehk=50zzkVQK3zCLYD%2fiE8yj%2fgvV764exZ6sGP%2fKyA05qzg%3d&risl=&pid=ImgRaw&r=0)
 <!-- to ignore syntax -->
