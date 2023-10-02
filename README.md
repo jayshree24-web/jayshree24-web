@@ -4,9 +4,9 @@
 <!--<br/>-->
 
 ## I'm a Student, android developer, cyber security enthusiast, active learner 🤖.. 
-
+<img align="right" alt="coding" width="300" src="https://th.bing.com/th/id/R.b28f3a277d4e3ff50a49add5f4262723?rik=bXfP72dCkCsuAA&riu=http%3a%2f%2fwww.alphaprogrammer.in%2fwp-content%2fuploads%2f2021%2f04%2f8306-programming-animation.gif&ehk=Uw43Jb%2bWbcsGTVLcQ29qigHryp0mnF%2bVYUE0HyCugPs%3d&risl=&pid=ImgRaw&r=0">
 <!-- About me image -->
- <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b28f3a277d4e3ff50a49add5f4262723?rik=bXfP72dCkCsuAA&riu=http%3a%2f%2fwww.alphaprogrammer.in%2fwp-content%2fuploads%2f2021%2f04%2f8306-programming-animation.gif&ehk=Uw43Jb%2bWbcsGTVLcQ29qigHryp0mnF%2bVYUE0HyCugPs%3d&risl=&pid=ImgRaw&r=0">
+
 - 💗 to solve coding problems on [LeetCode](https://leetcode.com/jayshreek315/).
 - 🌱 Currently learning DSA 🤣.
 - 👯 I’m looking to collaborate with android developer.
